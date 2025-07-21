@@ -82,8 +82,8 @@ npx cypress open
 
 ---
 
-✅ Cenários cobertos no spec.cy.js
-🔐 Login com sucesso
+ Cenários cobertos no spec.cy.js :
+🔐Login com sucesso
 🚪 Logout com sucesso
 🛒 Adição de produtos ao carrinho
 ✅ Finalização de compra
